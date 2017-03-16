@@ -15,7 +15,7 @@
  For the database, I am looking at using PostgreSQL database as it is open source. As for the backend of
  the project, I am looking to using Processing from processing.org.
  
- ###Potential Problems
+ ### Potential Problems
  There are some issues or problems that we may run into. One problem that may occur is if the software
  is unable to connect to the database. Another issue that we would have to handle is if there are more
  than one user trying to edit the same locker at the same time. The chances of this happening is very low
