@@ -52,5 +52,10 @@ module.exports.routes = {
   'GET /welcome': {
       controller: 'UserController',
       action: 'index'
+  },
+
+  'GET /lockers': {
+    controller: 'LockerController',
+    action: 'index'
   }
 };
